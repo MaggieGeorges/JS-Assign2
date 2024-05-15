@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+h1 {
+    color: black;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+#game {
+    margin-top: 20px;
+}
+
+#result {
+    margin-top: 10px;
+}
+
+#score {
+    margin-top: 10px;
+}
